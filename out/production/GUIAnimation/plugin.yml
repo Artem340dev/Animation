@@ -1,0 +1,6 @@
+name: GUIAnimation
+main: guianim.main.SpigotPlugin
+version: 0.1
+commands:
+  anim:
+    description: Анимация нахуй
